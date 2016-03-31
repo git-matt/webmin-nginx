@@ -1,0 +1,6 @@
+{
+  "name": "Webmin-nginx",
+  "tagline": "Nginx module for webmin (update of module by Justin Hoffman)",
+  "body": "### Changes\r\n- Modified configuration to use actual directory names, used this setting throughout code - not hard-coded names\r\n- Parse Nginx .conf files for values next to specified directives and display in main table\r\n- Allow virtual servers to be enabled/ disable with a click",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
